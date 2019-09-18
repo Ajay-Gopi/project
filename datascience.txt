@@ -1,0 +1,279 @@
+qualitative:
+deals with the measurement using numbers
+
+nominal:
+classify by their char and behavior
+
+ordinal:
+
+order of classificaion
+
+ratio:
+
+1:2
+
+4:5
+
+quantitative data:
+char and description
+
+mainly focus on maths calculationsa and numbers,...
+
+
+cont data:
+
+measure of height and weight iin the school
+
+
+discrete:
+
+as some constant numbers where we can able calculate easy
+
+
+
+3 Vs
+
+volume--amount of data which is growing day by day or everyday
+
+terabytes
+records
+transactions
+tables,files
+
+
+
+variety---
+
+type of data to be generated
+
+structured---php sql,,,,,,
+unstructured----wikipedia
+semi structured---xml html,,,,
+all strucutred--
+
+
+
+velocity---
+different source of data are generated everyday
+
+streams
+real time
+near time
+
+
+Who are all data scientist:
+
+Analze data
+know progrm lang
+statistics
+maths calculations
+stru,,unstru
+business persons
+
+
+
+what a data scientist do?
+predict
+analyize
+find domain/problem
+statistics
+math calu
+algorithm 
+optimize
+forecaste
+etc.....
+
+
+types of data scientist:
+1.data business people---data busineess people are product and profit-focused data scientist..
+
+leader,,manager,,,,
+
+
+
+2.data creaters--able to work with broad range of data
+
+
+
+3.data developers---programmers mainly focus on writing and developing software in ordeer to analyse,staticstics,,ml...
+
+
+
+4. data researches---scientific training people....solve the complex problem
+
+
+machine learning:
+machine learning is a study of algo and statistics
+
+supervised learning:
+data you are going to predict 
+.regression
+.classification
+
+
+unsupervised learning:
+based on grouping of data
+.
+clustering
+
+
+reinforcement learning:
+find problem and provide solution
+...
+
+
+
+aritchmetic progression:
+
+
+mode:the value repeat more times
+
+measure of dispersion:
+
+1.range:
+
+difference between the high and low value
+
+8 ,7,5,3,5,2
+
+
+
+
+
+2.interquartile range:
+
+quartile:
+among the data we are breaking the data set into quarters
+
+
+q1=25%
+q2=40%
+q3=60%
+q4=10%
+
+Iqr=q3-q4
+
+Iqr=60-10
+
+IQR=50%
+
+3.s.d:square root of var
+
+4.variance:it is avg of square deviation about the mean
+
+skewness:
+
+
+kurtosis:
+
+
+Data visualization:
+
+pictoril representation of data
+
+
+types of data virtualization :
+
+1.Histogram
+
+2.pie chart
+
+3.Bar chat
+
+ho--verti
+
+4.box-plot
+line plot
+
+5.scatter
+
+
+Outlier:
+
+Different from other we say as outlier.(which is out of normal condition)
+
+
+probability distribution:
+
+probability:
+
+Binomial Distribution:Poosible number of successive outcome
+
+
+
+
+b(x,n,p)=n Cx Px*(1-p)n-x
+
+
+
+
+mean
+
+
+possion dist:
+
+number of events occuring in a given period
+
+1.number of exams in a four year
+
+2.number of product sold in a month
+
+
+3.number of car accident in 2018
+
+4.number of typing error on a given page.
+
+r
+
+
+correlation:connection between two var or mutual relationship
+
+v1----------v2-----------v3-------------v4
+
+
+r(co-eff of correlation)
+
+r>0===positive
+
+r<0--negative
+
+r=0 no relationship
+
+
+cor(a,b)=E((a-E(a))(b-E(b))
+
+
+
+
+confidential interval:can able to estimate a range of value.
+
+z-score:
+no of s.d from the mean value we call this as z-score
+
+
+Regression:
+
+Multi-linear regression:
+
+
+
+
+Logistic Regression:
+
+Logical Regression is one of the basic and popular algorithm to solve a classifiation problem
+
+Classification:
+
+
+
+
+
+
+
+
+
+
+
+
+
+

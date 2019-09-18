@@ -1,0 +1,316 @@
+Basic building blocks:
+
+1.identifier--name given to var, function ,class
+
+syntax:
+
+salary=20000
+bonus=1000
+
+
+2.variables
+a=10
+b=20
+print(a)
+print(b)
+
+
+3.numeric values--
+int---a=10 b=20
+
+float---a=2.2 b=4.3
+
+string--print("python")
+
+char----(a)
+
+
+
+
+4.assignments--variable
+
+a=1
+
+b=2
+
+
+5.operators:
+
+1.arithmetic operator
+
+add==a+b
+sub---a-b
+mul---a*b
+div--a/b
+module--a%b
+floor div--a//b
+
+exp--a**b
+
+
+2.relational oper:
+
+==
+
+!=
+
+>
+>=
+<
+<=
+
+3.logical operator:
+
+And--return true if both are true
+
+
+Or--return true if any one condition is true
+
+
+Not--reverse the result
+
+
+4.bitwise:
+
+bitwise And
+
+bitwise Or
+
+
+5.special operator
+
+1.identity
+
+is, is not-----check whether given value is similar or not
+
+
+
+
+2.membership-----check the data is valid or not
+
+in
+not in
+
+
+
+control flow statements:
+
+if--
+elif--else-if
+if-else
+nested if--
+
+
+while:---exe the statement untill the conditiom is true
+
+
+for:python for loop is used to iterate the elements.
+
+break:even if the condition is true ,,we can stop this by using break
+
+continue:
+
+
+
+function:
+
+function arguments:
+
+1.default--name,address="chennai"
+
+2.required--name,address
+
+              "hello","chennai"
+
+3.keyword--name="hello"address="chennai"
+
+
+recursion:
+
+function call itself
+
+
+labda function:
+
+def cube(y):
+
+
+Data structure:
+collection of data or information i n a structured way
+
+list--store multiple data or information
+
+syntax:
+l=[1,2,3,4,5]
+
+function:
+
+tuple:
+
+store ,ultiple datas
+
+syntax:
+
+t=(1,2,3)
+
+len()
+t.count()
+slicing()
+
+
+
+set:unorder collection of data
+
+mutable
+
+syntax:
+
+s={1,2,3,4,5}
+
+Union
+intersection
+set diff
+symmetric diff
+
+
+
+
+dictionary--key and value pair
+
+syntax:
+d={1:'anu'}
+
+len()
+key()
+values()
+copy()
+clear()
+
+modules:
+is a file which contain python definition and statements
+
+calculator.py
+
+math.py
+pi()
+sin()
+cos()
+floor()
+
+
+package:
+
+collection of modules is called package.
+
+package:
+
+car games--(package name)
+
+sound.py
+
+img.py
+
+level.py
+
+
+file operations:
+
+open and read
+
+write
+
+append
+
+x-create a new file 
+
+
+f=open(".../..../'test.txt','w')
+
+print(f.read(10))
+
+w--write
+a-add the content to the file
+x-create a new empty file
+
+error:
+
+name error
+type error
+indent error
+syntax
+value error
+zero div error
+etc....
+
+exception handling:
+try--
+except--
+finally--
+raise--
+asserts--
+
+
+OOps :
+
+class--blueprint or template for any functional entity
+
+class emp:
+
+
+object:instance of class
+
+class emp:
+obj=emp()
+
+
+
+inheritance:inherit from one class to another class
+
+class a()
+add
+....
+class b(a)
+sub
+mul
+.........
+b()...
+sub
+mul
+add
+
+sigle
+multiple
+multi-level
+hybrid
+
+
+polymorphism----perfoem multiple task for common interface
+
+function oveer
+
+oper over
+
+function overriding
+
+abstraction:
+hiding a details from outside world'.
+
+constructor:special type of function which is used to initialize values
+
+--init--
+--self--
+
+def init(self,name.age)
+..........
+    self.name=name:
+    self.age=age:
+
+
+
+
+exploratory data analysis:(EDA)
+statistical way of story telling
+
+for getting a better understanding of data
+
+

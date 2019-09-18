@@ -1,0 +1,130 @@
+Natural Language PROCESSING(NLP):
+NLP is the ability of machine to understand what the human are writing and speaking.
+
+1.LDA :Latent Dirichlet Allocation:
+LDA is a statistical model used for observations of data.
+ldda will be in a group format.
+
+the main reason of observation is to chech the data are similar.
+
+
+
+2.Structured Data Extraction:
+Structured data:the data which is in a structured format
+
+eg:sql,DB
+
+Source of data contain a large number of groups...the information gained will be more.
+
+we will extract only the structured data from a large number of group.
+
+3.Lexicons:
+
+lexicons serves as dictionary,for extracting data.
+
+we can use this lexicon for prediction(predicting data and task)
+
+we can also use this lexicons for the bag of words.
+
+
+4.Emotion mining:
+This methods allow us to make most negative--positive sentiment data from the text.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dimension Reduction:
+This technology used in order to assume many observation,
+in order to collect large amount of data or information.
+observation maybe a curve, image, video,,,
+
+High Dimension:
+Automatic data collection,,we will not know which data are relevent data.
+
+Principal Component analysis:
+to analyse which are all relevent data from the observation.
+PCA can also be used in data to explore as well as to visualize a data easy.
+
+
+
+Standardized shorctcut of PCA:
+before we used covariance matrix......
+
+now we are going to use Correaltion matrix
+
+Computing principal score:
+
+
+
+Matrix transpose:
+
+Matrix multiplication:
+
+Data compression:
+
+
+Forecasting:this technique is used to predict the future aspects of the business..
+
+
+Time series analysis:
+predict the value or data based on time or period
+
+eg:
+last 6 month data.........
+
+
+
+components of time series:
+
+1.trend:
+
+
+2.cyclical:
+
+3.seasonal:
+
+4.irregular:
+
+Decomposition of components:
+when we use a decomposition of time series we will get all time series components.
+
+two methods:
+1.Additive:
+
+
+2.Multipliative:
+
+Technique for forecasting:
+
+
+1.simple moving average:
+
+2.Weighted moving average:
+
+3.exponential smoothing:
+
+4.Holts exponential smoothing:
+
+
+5.Holts winter model:
+
+
+
+
+
+
+
+
+
+
+
+

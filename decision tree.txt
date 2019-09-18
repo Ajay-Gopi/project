@@ -1,0 +1,229 @@
+Decision Tree:A decision tree is a tree like structure
+
+
+Node:represent a attribute
+
+Edge:Answer to the question
+
+Leaves:represent the actual output
+
+
+Types:
+
+1.Root node
+
+2.Branch node
+
+3.Leaf node
+
+
+How to build a decision tree:
+
+step:1
+
+
+
+Algorith for decision tree:
+
+A greedy algorith:
+
+1.construct a tree 
+
+2.top-down recursive
+
+
+3.start point---root---training
+
+
+Entropy:it is a measure of random variable
+
+hign unpreditable :High information content-----Large entropy
+
+
+low unpredictable:Low information content----Small entropy
+
+
+
+
+Information gain:
+
+select a attribute that have hign information content.
+
+
+
+Select a best attribute:
+
+total=10 attributes
+
+positive:4/10(yes)
+
+Negative:6/10(no)
+
+info(d)=-Eplog(p)
+
+
+
+
+
+Random Forest:Random forset is an ensemble classifier made using a decision tree.
+
+whai is ensemble model:
+collect the results from different models.
+
+ensemble model in random forest we can get a better results.
+
+
+how this random forest works?
+
+1.number of training data(root)
+
+2.number of variables.
+
+3.based on the variable we are going to select a data in random.
+
+
+4.it is possible to grow the random forest with large extend tree.
+
+5.decision will be made by number of votes from all the tree.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.test attribute ---based on the each node we can able to test and measure data.
+
+
+
+
+
+
+
+
+Clustering:
+
+the process of grouping the similar objets based on the distance.
+
+objects are similar to each other , we say this intraclass similarity
+
+when the objects are not similar to each other , we say this interclass dissimilarity.
+
+
+Application:
+
+1.sales and marketing:if a company wan to know the data of product which is is sold less,and have some advance on that such product and try to improve theproduct based on the data collected.
+
+2.Text mining:
+
+key:  sales,,marketing,,company,,data,,product,,sold,,less,
+advance,,try,,improve,,
+
+positive words:improve, advace, sold,try
+
+negative words:less
+
+3.image processing:
+partition for the image to divide into many segments,
+
+like pixes,,
+add bg color
+add advance feature
+
+in order to get a image more meaningful and easy for data analysis.
+
+4.Machine learing:machine learning automation
+
+
+Types of clustering:
+
+1.Hierarchical clustering.
+   
+    a)Agglomerative Hierarchical clustering or AGNES
+    b)Divisive Hierarchical clustering or DIANA 
+
+2.K-means clustering/Non-Hierarchical.
+
+
+
+a)Agglomerative Hierarchical clustering or AGNES:
+1.This algorithm works by grouping the data one by one based on the nearest distance.
+2.again, we have to recalculate the distance point in order to know when the data have been formes?
+
+methods:
+
+1.simple :nearest distance or simple linkage
+
+2.complete:far distance or complete linkage
+
+3.average:average distance or average linkage.
+
+algorithm for AGnes:
+1.sequence number m=0, clustering high Level L(0)=0
+2.have least distance pair or cluster
+pair(p,q)
+
+d[{p}{q}]=min d[{a}{b}]
+3.increment the sequence number
+
+m=m+1
+
+4.update the distance matrix
+
+5.data point for the AGNES cluster.
+
+Divisive Hierarchical clustering or DIANA :
+Inverse of AGNES
+
+ADV:
+1.easy to implement
+2.best result
+
+Dis-adv:
+1. Never undo
+2. Sensitive.
+
+
+Dendogram:
+It is tree like structure.
+
+Representation of Dendogram on AGNES:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Standardize:find a standardized value for the Euclidean distance we use this.
+
+z_AGE=AGE-mean(AGE)/S.D(AGE)
+
+k-mean clustering:
+
+
+
+
+Text mining:
+
+
+
+
+
+
+
+
